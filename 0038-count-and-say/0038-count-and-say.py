@@ -11,7 +11,6 @@ class Solution:
                 p = s[i]
                 c = 1
         ans.append([str(c), p])
-        print(ans)
         return ans
 
     def countAndSay(self, n: int) -> str:
