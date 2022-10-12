@@ -3,7 +3,6 @@ class Solution:
         commonPrefix = ""
         i = 0
         while(True):
-            print(len(strs[0]))
             if (i >= len(strs[0])):
                 return commonPrefix
             pattern = strs[0][i]
