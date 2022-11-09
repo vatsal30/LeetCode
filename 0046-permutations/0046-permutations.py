@@ -1,20 +1,17 @@
 class Solution:
-    def findPermute(self, nums, answer, map_check, ds):
-        if (len(ds) == len(nums)):
-            answer.append(ds.copy())
+    def findPermute(self, idx, nums, answer):
+        if (idx == len(nums)):
+            answer.append(nums.copy())
             return
         # print(answer)
-        for i in range(len(nums)):
-            if (not map_check[i]):
-                map_check[i] = 1
-                ds.append(nums[i])
-                self.findPermute(nums, answer, map_check, ds)
-                map_check[i] = 0
-                ds.pop(-1)
+        for i in range(idx, len(nums)):
+            nums[idx], nums[i] = nums[i], nums[idx]
+            self.findPermute(idx+1, nums, answer)
+            nums[idx], nums[i] = nums[i], nums[idx]
+            
                 
     def permute(self, nums: List[int]) -> List[List[int]]:
         answer = []
-        map_check = [0] * len(nums)
-        self.findPermute(nums, answer, map_check, [])
+        self.findPermute(0, nums, answer)
         return answer
         
