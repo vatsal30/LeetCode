@@ -2,7 +2,7 @@
 
 def isPossible(graph, color, i, idx, V):
     for k in range(V):
-        if (graph[idx][k] == 1 and color[k]==i):
+        if (k!= idx and graph[idx][k] == 1 and color[k]==i):
             return False
     return True
 
