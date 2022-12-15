@@ -1,7 +1,7 @@
 
 from typing import List
 class Solution:
-    
+    # BFS
     # def detect(self, start, adj, vis):
     #     vis[start] = 1
     #     queue = []
