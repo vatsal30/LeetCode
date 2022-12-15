@@ -2,22 +2,32 @@
 from typing import List
 class Solution:
     
-    def detect(self, start, adj, vis):
+    # def detect(self, start, adj, vis):
+    #     vis[start] = 1
+    #     queue = []
+    #     queue.append((start, -1))
+    #     while queue:
+    #         currNode, parent = queue.pop(0)
+    #         adjNodes = adj[currNode]
+            
+    #         for node in adjNodes:
+    #             if(vis[node]==0):
+    #                 queue.append((node, currNode))
+    #                 vis[node] = 1
+    #             elif(node!=parent):
+    #                 return True
+    #     return False
+    
+    def detect(self, start, parent, adj, vis):
         vis[start] = 1
-        queue = []
-        queue.append((start, -1))
-        while queue:
-            currNode, parent = queue.pop(0)
-            adjNodes = adj[currNode]
-            
-            for node in adjNodes:
-                if(vis[node]==0):
-                    queue.append((node, currNode))
-                    vis[node] = 1
-                elif(node!=parent):
+        adjNodes = adj[start]
+        for node in adjNodes:
+            if(vis[node]==0):
+                if self.detect(node, start, adj, vis):
                     return True
+            elif(node!=parent):
+                return True
         return False
-            
             
     #Function to detect cycle in an undirected graph.
 	def isCycle(self, V: int, adj: List[List[int]]) -> bool:
@@ -25,9 +35,8 @@ class Solution:
         vis = [0 for i in range(V)]
         for i in range(V):
             if (vis[i] == 0):
-                if (self.detect(i, adj, vis)):
+                if (self.detect(i, -1, adj, vis)):
                     return True
-        
         return False
 
 #{ 
