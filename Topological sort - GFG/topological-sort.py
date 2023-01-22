@@ -1,23 +1,53 @@
+from collections import deque
+
 class Solution:
     
-    def dfs(self, node, adj, vis, stk):
-        vis[node] = 1
-        for i in adj[node]:
-            if(vis[i] == 0):
-                self.dfs(i, adj, vis, stk)
-        stk.append(node)
+    # Solution with DFS
+    # def dfs(self, node, adj, vis, stk):
+    #     vis[node] = 1
+    #     for i in adj[node]:
+    #         if(vis[i] == 0):
+    #             self.dfs(i, adj, vis, stk)
+    #     stk.append(node)
 
-    #Function to return list containing vertices in Topological order.
+    # #Function to return list containing vertices in Topological order.
+    # def topoSort(self, V, adj):
+    #     # Code here
+    #     vis = [0 for i in range(V)]
+    #     stk = []
+    #     for i in range(V):
+    #         if (vis[i] == 0):
+    #             self.dfs(i, adj, vis, stk)
+
+    #     stk.reverse()
+    #     return stk
+    
+    # Solution with BFS Kahn's algorith
     def topoSort(self, V, adj):
-        # Code here
-        vis = [0 for i in range(V)]
-        stk = []
+        indegree = [0 for i in range(V)]
+        
         for i in range(V):
-            if (vis[i] == 0):
-                self.dfs(i, adj, vis, stk)
-
-        stk.reverse()
-        return stk
+            for node in adj[i]:
+                indegree[node] += 1
+        
+        que = deque()
+        
+        for node in range(V):
+            if indegree[node] == 0:
+                que.append(node)
+        
+        ans = []
+        
+        while que:
+            node = que.popleft()
+            ans.append(node)
+            for ele in adj[node]:
+                indegree[ele] -= 1
+                
+                if (indegree[ele] == 0):
+                    que.append(ele)
+        
+        return ans
         
 
 #{ 
