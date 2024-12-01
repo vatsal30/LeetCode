@@ -1,5 +1,5 @@
 # LeetCode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+This repo contains all the problems I pricticed from the leetcode for the interview preparations conatins most of problems from the https://neetcode.io/roadmap, https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/ and Blind-75.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
