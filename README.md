@@ -1,6 +1,8 @@
 # LeetCode
 This repo contains all the problems I pricticed from the leetcode for the interview preparations conatins most of problems from the https://neetcode.io/roadmap, https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/ and Blind-75.
 
+This repo has been updated using chrome extension [LeetHub-2.0](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm) and [LeetHub](https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi?hl=en) to auto commit the problems once I solved them on leetcode.
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Stack
