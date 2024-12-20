@@ -56,4 +56,12 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/vatsal30/LeetCode/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/vatsal30/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
