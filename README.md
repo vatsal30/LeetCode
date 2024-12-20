@@ -39,6 +39,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Tree
 |  |
@@ -63,5 +64,14 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/vatsal30/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
