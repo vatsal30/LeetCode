@@ -11,6 +11,5 @@ class Solution:
                 nums[idx], nums[n] = nums[n], nums[idx]
                 while n >= 0 and nums[n] == val:
                     n -= 1
-                print(idx, n)
             idx += 1
         return n + 1
