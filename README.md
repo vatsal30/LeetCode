@@ -19,6 +19,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vatsal30/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/vatsal30/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -39,6 +40,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Tree
@@ -63,6 +65,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsal30/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/vatsal30/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
