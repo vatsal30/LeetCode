@@ -21,6 +21,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vatsal30/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/vatsal30/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vatsal30/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/vatsal30/LeetCode/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vatsal30/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vatsal30/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2812-find-the-maximum-achievable-number](https://github.com/vatsal30/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Monotonic Stack
