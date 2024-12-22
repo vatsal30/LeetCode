@@ -3,14 +3,12 @@ class Solution:
         ans = [-1] * len(queries)
         new_queries = [[] for _ in heights]
         for idx, (a, b) in enumerate(queries):
-            if a == b:
-                ans[idx] = b
-            elif a > b and heights[a] > heights[b]:
-                ans[idx] = a
-            elif a < b and heights[a] < heights[b]:
+            if a > b:
+                a, b = b, a
+            if a == b or heights[b] > heights[a]:
                 ans[idx] = b
             else:
-                new_queries[max(a, b)].append((max(heights[a], heights[b]), idx))
+                new_queries[b].append((heights[a], idx))
 
         max_index = []
         for idx, height in enumerate(heights):
