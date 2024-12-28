@@ -29,6 +29,6 @@ class Solution:
                 if dp[idx-1][sum_val + totalSum] > 0:
                     dp[idx][sum_val + nums[idx] + totalSum] += dp[idx-1][sum_val + totalSum]
                     dp[idx][sum_val - nums[idx] + totalSum] += dp[idx-1][sum_val + totalSum]
-        return 0 if abs(target) > totalSum else dp[len(nums) -1][target + totalSum]
+        return 0 if abs(target) > totalSum else dp[len(nums) -1][abs(target) + totalSum]
 
         
