@@ -21,14 +21,16 @@ class Solution:
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
         totalSum = sum(nums)
-        dp = [[0] * (2 * totalSum + 1) for _ in range(len(nums))]
-        dp[0][nums[0] + totalSum] = 1
-        dp[0][-nums[0] + totalSum] += 1
+        dp = [0] * (2 * totalSum + 1)
+        dp[nums[0] + totalSum] = 1
+        dp[-nums[0] + totalSum] += 1
         for idx in range(1, len(nums)):
+            new_dp = [0] * (2 * totalSum + 1)
             for sum_val in range(-totalSum, totalSum + 1):
-                if dp[idx-1][sum_val + totalSum] > 0:
-                    dp[idx][sum_val + nums[idx] + totalSum] += dp[idx-1][sum_val + totalSum]
-                    dp[idx][sum_val - nums[idx] + totalSum] += dp[idx-1][sum_val + totalSum]
-        return 0 if abs(target) > totalSum else dp[len(nums) -1][target + totalSum]
+                if dp[sum_val + totalSum] > 0:
+                    new_dp[sum_val + nums[idx] + totalSum] += dp[sum_val + totalSum]
+                    new_dp[sum_val - nums[idx] + totalSum] += dp[sum_val + totalSum]
+            dp = new_dp
+        return 0 if abs(target) > totalSum else dp[target + totalSum]
 
         
