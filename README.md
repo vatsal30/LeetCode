@@ -39,6 +39,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vatsal30/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/vatsal30/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vatsal30/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2812-find-the-maximum-achievable-number](https://github.com/vatsal30/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Monotonic Stack
@@ -141,6 +142,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vatsal30/LeetCode/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/vatsal30/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vatsal30/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/vatsal30/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -151,4 +153,8 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/vatsal30/LeetCode/tree/master/0494-target-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vatsal30/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
