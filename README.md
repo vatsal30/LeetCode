@@ -26,6 +26,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0088-merge-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vatsal30/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/vatsal30/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/vatsal30/LeetCode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/vatsal30/LeetCode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/vatsal30/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vatsal30/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -146,6 +147,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | ------- |
 | [0070-climbing-stairs](https://github.com/vatsal30/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vatsal30/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/vatsal30/LeetCode/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/vatsal30/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vatsal30/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/vatsal30/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
