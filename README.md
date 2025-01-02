@@ -21,6 +21,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vatsal30/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/vatsal30/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vatsal30/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/vatsal30/LeetCode/tree/master/0066-plus-one) |
@@ -116,6 +117,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vatsal30/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
