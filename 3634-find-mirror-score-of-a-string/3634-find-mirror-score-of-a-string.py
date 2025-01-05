@@ -1,6 +1,6 @@
 class Solution:
     def calculateScore(self, s: str) -> int:
-        alpha = [deque() for _ in range(26)]
+        alpha = [[] for _ in range(26)]
         ans = 0
         for idx, c in enumerate(s):
             order = ord(c) - 97
