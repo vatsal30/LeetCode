@@ -3,8 +3,12 @@ class Solution:
         s_arr = [0] * (len(s) + 1)
         for shift in shifts:
             i, j, direction = shift
-            s_arr[i] += (2 * direction - 1)
-            s_arr[j+1] -= (2 * direction - 1)
+            if direction:
+                s_arr[i] += 1 
+                s_arr[j+1] -= 1
+            else:
+                s_arr[i] -= 1
+                s_arr[j+1] += 1
         ans = list(s)
         incr = 0
         for idx, c in enumerate(s):
