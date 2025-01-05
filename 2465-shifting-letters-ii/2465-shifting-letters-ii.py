@@ -11,10 +11,12 @@ class Solution:
                 s_arr[i] -= 1
                 if j < len(s) - 1:
                     s_arr[j+1] += 1
-        ans = ""
+        ans = []
         incr = 0
+        print(s_arr)
         for idx, c in enumerate(s):
             incr += s_arr[idx]
             tmp = ((ord(c) - 97) + incr)%26
-            ans += chr(tmp + 97)
-        return ans
+            
+            ans.append(chr(tmp + 97))
+        return ''.join(ans)
