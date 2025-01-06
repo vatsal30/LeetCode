@@ -50,6 +50,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vatsal30/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vatsal30/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vatsal30/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vatsal30/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -173,6 +174,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vatsal30/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vatsal30/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vatsal30/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vatsal30/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -206,4 +208,8 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/vatsal30/LeetCode/tree/master/3678-design-task-manager) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vatsal30/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
