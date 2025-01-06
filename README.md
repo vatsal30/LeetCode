@@ -18,6 +18,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vatsal30/LeetCode/tree/master/0155-min-stack) |
+| [3678-design-task-manager](https://github.com/vatsal30/LeetCode/tree/master/3678-design-task-manager) |
 ## Array
 |  |
 | ------- |
@@ -135,6 +136,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vatsal30/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3678-design-task-manager](https://github.com/vatsal30/LeetCode/tree/master/3678-design-task-manager) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -163,6 +165,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vatsal30/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3678-design-task-manager](https://github.com/vatsal30/LeetCode/tree/master/3678-design-task-manager) |
 ## Graph
 |  |
 | ------- |
@@ -199,4 +202,8 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vatsal30/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/vatsal30/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/vatsal30/LeetCode/tree/master/2465-shifting-letters-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/vatsal30/LeetCode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
