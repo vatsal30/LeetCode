@@ -51,6 +51,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vatsal30/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/vatsal30/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vatsal30/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vatsal30/LeetCode/tree/master/0070-climbing-stairs) |
@@ -215,4 +216,12 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vatsal30/LeetCode/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vatsal30/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vatsal30/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
