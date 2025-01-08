@@ -18,6 +18,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vatsal30/LeetCode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [3678-design-task-manager](https://github.com/vatsal30/LeetCode/tree/master/3678-design-task-manager) |
 ## Array
 |  |
@@ -125,6 +126,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsal30/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/vatsal30/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -140,6 +142,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vatsal30/LeetCode/tree/master/0001-two-sum) |
+| [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vatsal30/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -232,6 +235,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vatsal30/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
