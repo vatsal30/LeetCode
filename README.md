@@ -27,6 +27,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0015-3sum](https://github.com/vatsal30/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsal30/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/vatsal30/LeetCode/tree/master/0027-remove-element) |
+| [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/vatsal30/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vatsal30/LeetCode/tree/master/0118-pascals-triangle) |
@@ -190,6 +191,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vatsal30/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/vatsal30/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vatsal30/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vatsal30/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -255,4 +257,8 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/vatsal30/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
