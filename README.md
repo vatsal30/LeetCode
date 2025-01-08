@@ -31,6 +31,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0088-merge-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vatsal30/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vatsal30/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vatsal30/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsal30/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/vatsal30/LeetCode/tree/master/0198-house-robber) |
@@ -126,6 +127,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsal30/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
@@ -142,6 +144,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vatsal30/LeetCode/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
@@ -190,6 +193,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0070-climbing-stairs](https://github.com/vatsal30/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vatsal30/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vatsal30/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vatsal30/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vatsal30/LeetCode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
@@ -208,6 +212,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vatsal30/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -235,6 +240,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vatsal30/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
