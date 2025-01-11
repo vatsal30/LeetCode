@@ -74,6 +74,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +135,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/vatsal30/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vatsal30/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/vatsal30/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -151,6 +153,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
+| [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vatsal30/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/vatsal30/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3678-design-task-manager](https://github.com/vatsal30/LeetCode/tree/master/3678-design-task-manager) |
@@ -264,4 +267,8 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
