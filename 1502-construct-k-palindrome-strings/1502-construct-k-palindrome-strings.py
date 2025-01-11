@@ -7,7 +7,7 @@ class Solution:
         for letter in freq_map:
             if freq_map[letter]%2 == 1:
                 oneCount += 1
-        if oneCount > k:
-            return False
+                if oneCount > k:
+                    return False
         return True
         # oneCount = sum(i % 2 == 1 for i in range)
