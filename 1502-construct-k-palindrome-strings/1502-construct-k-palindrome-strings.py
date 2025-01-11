@@ -4,7 +4,6 @@ class Solution:
             return False
         freq_map = Counter(s)
         oneCount = 0
-        print(freq_map)
         for letter in freq_map:
             if freq_map[letter]%2 == 1:
                 oneCount += 1
