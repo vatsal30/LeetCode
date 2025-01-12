@@ -132,6 +132,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vatsal30/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsal30/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -200,6 +201,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vatsal30/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/vatsal30/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vatsal30/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -220,6 +222,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vatsal30/LeetCode/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/vatsal30/LeetCode/tree/master/0494-target-sum) |
 ## Memoization
 |  |
