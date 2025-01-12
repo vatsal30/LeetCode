@@ -10,6 +10,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vatsal30/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vatsal30/LeetCode/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/vatsal30/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/vatsal30/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vatsal30/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -75,6 +76,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/vatsal30/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vatsal30/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -139,6 +141,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/vatsal30/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/vatsal30/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vatsal30/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -214,6 +217,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/vatsal30/LeetCode/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/vatsal30/LeetCode/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/vatsal30/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vatsal30/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/vatsal30/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/vatsal30/LeetCode/tree/master/1063-best-sightseeing-pair) |
