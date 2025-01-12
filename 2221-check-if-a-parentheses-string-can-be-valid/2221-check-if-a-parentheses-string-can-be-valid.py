@@ -1,9 +1,12 @@
 class Solution:
     def canBeValid(self, s: str, locked: str) -> bool:
+        
         if len(s) % 2 == 1:
             return False
+        
         if (locked[0] == "1" and s[0] == ")") or (locked[-1] == "1" and s[-1] == "("):
             return False 
+        
         unlocked = 0
         openP = 0
         for i in range(len(s)):
@@ -18,6 +21,7 @@ class Solution:
                     unlocked -= 1
                 else:
                     return False
+    
         balanced = 0
         for i in range(len(s)-1, -1, -1):
             if locked[i] == '0':
@@ -30,8 +34,8 @@ class Solution:
                 balanced -= 1
             if balanced > 0:
                 return False
-            if openP == 0 and unlocked == 0:
-                break
+            if openP == 0:
+                return True
         if openP > 0:
             return False
         return True
