@@ -16,8 +16,6 @@ class Solution:
         while openStack and starStack and openStack[-1] < starStack[-1]:
             openStack.pop()
             starStack.pop()
-        print(openStack)
-        print(starStack)
         if openStack:
             return False
         return True
