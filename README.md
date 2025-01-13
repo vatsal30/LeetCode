@@ -153,6 +153,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [2292-counting-words-with-a-given-prefix](https://github.com/vatsal30/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/vatsal30/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vatsal30/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/vatsal30/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vatsal30/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/vatsal30/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/vatsal30/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3678-design-task-manager](https://github.com/vatsal30/LeetCode/tree/master/3678-design-task-manager) |
 ## Bit Manipulation
 |  |
@@ -284,4 +286,5 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/vatsal30/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
