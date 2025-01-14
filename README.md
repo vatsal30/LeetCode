@@ -54,6 +54,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [2292-counting-words-with-a-given-prefix](https://github.com/vatsal30/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/vatsal30/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/vatsal30/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vatsal30/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/vatsal30/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vatsal30/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vatsal30/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -164,6 +165,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vatsal30/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vatsal30/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/vatsal30/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/vatsal30/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3678-design-task-manager](https://github.com/vatsal30/LeetCode/tree/master/3678-design-task-manager) |
@@ -173,6 +175,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0338-counting-bits](https://github.com/vatsal30/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vatsal30/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vatsal30/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
