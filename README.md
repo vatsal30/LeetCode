@@ -13,6 +13,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0678-valid-parenthesis-string](https://github.com/vatsal30/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/vatsal30/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/vatsal30/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vatsal30/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vatsal30/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vatsal30/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -143,6 +144,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/vatsal30/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/vatsal30/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/vatsal30/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vatsal30/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
