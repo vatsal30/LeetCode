@@ -82,6 +82,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vatsal30/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/vatsal30/LeetCode/tree/master/2509-minimize-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -177,6 +178,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0338-counting-bits](https://github.com/vatsal30/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vatsal30/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/vatsal30/LeetCode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vatsal30/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
