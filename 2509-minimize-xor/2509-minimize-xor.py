@@ -4,7 +4,6 @@ class Solution:
         while num > 0:
             bits += num & 1
             num = num >> 1
-        print(bits)
         return bits
 
     def minimizeXor(self, num1: int, num2: int) -> int:
