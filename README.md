@@ -55,6 +55,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [2292-counting-words-with-a-given-prefix](https://github.com/vatsal30/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/vatsal30/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/vatsal30/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/vatsal30/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vatsal30/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/vatsal30/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vatsal30/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -179,6 +180,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vatsal30/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/vatsal30/LeetCode/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/vatsal30/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vatsal30/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
@@ -294,4 +296,8 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/vatsal30/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/vatsal30/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
