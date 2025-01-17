@@ -182,6 +182,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vatsal30/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/vatsal30/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vatsal30/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/vatsal30/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
@@ -312,5 +313,6 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/vatsal30/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vatsal30/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
