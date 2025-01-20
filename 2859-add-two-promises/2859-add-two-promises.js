@@ -3,12 +3,10 @@
  * @param {Promise} promise2
  * @return {Promise}
  */
-var addTwoPromises = async function(promise1, promise2) {
-    return new Promise((resolve, reject) => {
-        Promise.all([promise1, promise2]).then((result) => {
-            resolve(result[0] + result[1]);
-        });
-    });
+var addTwoPromises = async function (promise1, promise2) {
+    return Promise.all([promise1, promise2]).then((result) =>
+        result[0] + result[1]
+    );
 };
 
 /**
