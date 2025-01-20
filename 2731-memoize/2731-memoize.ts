@@ -1,14 +1,15 @@
 type Fn = (...params: number[]) => number
 
 function memoize(fn: Fn): Fn {
-    const memory = new Map();
+    const memory = new Map<string, number>();
     return function(...args) {
-        const arg_str = JSON.stringify(args);
+        const arg_str: string = JSON.stringify(args);
         if (memory.has(arg_str)) {
             return memory.get(arg_str);
         }
-        memory.set(arg_str, fn(...args)); 
-        return memory.get(arg_str);
+        const result: number = fn(...args)
+        memory.set(arg_str, result); 
+        return result;
     }
 }
 
