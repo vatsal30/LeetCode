@@ -46,6 +46,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0283-move-zeroes](https://github.com/vatsal30/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/vatsal30/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/vatsal30/LeetCode/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/vatsal30/LeetCode/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vatsal30/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0739-daily-temperatures](https://github.com/vatsal30/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -131,6 +132,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0404-sum-of-left-leaves](https://github.com/vatsal30/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/vatsal30/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vatsal30/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/vatsal30/LeetCode/tree/master/0542-01-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vatsal30/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/vatsal30/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -262,6 +264,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/vatsal30/LeetCode/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/vatsal30/LeetCode/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/vatsal30/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/vatsal30/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vatsal30/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/vatsal30/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -327,6 +330,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vatsal30/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/vatsal30/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/vatsal30/LeetCode/tree/master/0542-01-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vatsal30/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/vatsal30/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/vatsal30/LeetCode/tree/master/2145-grid-game) |
