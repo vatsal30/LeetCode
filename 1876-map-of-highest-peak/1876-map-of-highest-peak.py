@@ -20,7 +20,7 @@ class Solution:
             i, j = queue.popleft()
             for dx, dy in directions:
                 x, y = i + dx, j + dy
-                if x >= 0 and y >= 0 and x < m and y < n and ans[x][y] == -1:
+                if 0 <= x < m and 0 <= y < n and ans[x][y] == -1:
                     ans[x][y] = ans[i][j] + 1
                     queue.append((x, y))
         return ans
