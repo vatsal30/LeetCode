@@ -1,8 +1,8 @@
 class Solution:
     def longestSquareStreak(self, nums: List[int]) -> int:
-        nums.sort()
         numSet= set(nums)
         ans = -1
+        nums.sort()
         for i in nums[:318]:
             num = i
             count = 0
