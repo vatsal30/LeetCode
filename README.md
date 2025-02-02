@@ -86,6 +86,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0150-evaluate-reverse-polish-notation](https://github.com/vatsal30/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/vatsal30/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vatsal30/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1642-water-bottles](https://github.com/vatsal30/LeetCode/tree/master/1642-water-bottles) |
 | [2812-find-the-maximum-achievable-number](https://github.com/vatsal30/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Monotonic Stack
 |  |
@@ -364,6 +365,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/vatsal30/LeetCode/tree/master/1642-water-bottles) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/vatsal30/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 ## Matrix
 |  |
