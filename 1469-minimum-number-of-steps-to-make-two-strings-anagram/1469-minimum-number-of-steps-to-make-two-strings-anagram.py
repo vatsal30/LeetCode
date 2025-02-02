@@ -1,10 +1,12 @@
 class Solution:
     def minSteps(self, s: str, t: str) -> int:
-        orig = Counter(s)
+        orig = [0] * 26
+        for c in s:
+            orig[ord(c) - 97] += 1
         ans = len(s)
         for c in t:
-            if orig[c] > 0:
-                orig[c] -= 1
+            if orig[ord(c) - 97] > 0:
+                orig[ord(c) - 97] -= 1
                 ans -= 1
         return ans
         
