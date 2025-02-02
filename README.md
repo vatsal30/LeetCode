@@ -67,6 +67,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vatsal30/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2465-shifting-letters-ii](https://github.com/vatsal30/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vatsal30/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vatsal30/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vatsal30/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vatsal30/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -114,6 +115,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vatsal30/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2586-longest-square-streak-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vatsal30/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
 |  |
@@ -226,6 +228,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/vatsal30/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vatsal30/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2586-longest-square-streak-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vatsal30/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vatsal30/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/vatsal30/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
@@ -260,6 +263,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsal30/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/vatsal30/LeetCode/tree/master/0268-missing-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vatsal30/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2586-longest-square-streak-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vatsal30/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
@@ -313,6 +317,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [1063-best-sightseeing-pair](https://github.com/vatsal30/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/vatsal30/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/vatsal30/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
