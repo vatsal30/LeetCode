@@ -46,6 +46,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsal30/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/vatsal30/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vatsal30/LeetCode/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/vatsal30/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vatsal30/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vatsal30/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/vatsal30/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -359,6 +360,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vatsal30/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vatsal30/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vatsal30/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vatsal30/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
