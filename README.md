@@ -8,6 +8,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vatsal30/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vatsal30/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vatsal30/LeetCode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/vatsal30/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -31,6 +32,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0018-4sum](https://github.com/vatsal30/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/vatsal30/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/vatsal30/LeetCode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/vatsal30/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vatsal30/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vatsal30/LeetCode/tree/master/0066-plus-one) |
@@ -98,6 +100,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vatsal30/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/vatsal30/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vatsal30/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -197,6 +200,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0018-4sum](https://github.com/vatsal30/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/vatsal30/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsal30/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/vatsal30/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsal30/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vatsal30/LeetCode/tree/master/0283-move-zeroes) |
@@ -316,6 +320,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vatsal30/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vatsal30/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/vatsal30/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vatsal30/LeetCode/tree/master/0064-minimum-path-sum) |
