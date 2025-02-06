@@ -30,6 +30,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0015-3sum](https://github.com/vatsal30/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsal30/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/vatsal30/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/vatsal30/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vatsal30/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vatsal30/LeetCode/tree/master/0066-plus-one) |
@@ -233,6 +234,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vatsal30/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/vatsal30/LeetCode/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
@@ -393,6 +395,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vatsal30/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vatsal30/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/vatsal30/LeetCode/tree/master/0407-trapping-rain-water-ii) |
