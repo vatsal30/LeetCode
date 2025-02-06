@@ -28,6 +28,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vatsal30/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vatsal30/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vatsal30/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsal30/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/vatsal30/LeetCode/tree/master/0027-remove-element) |
@@ -108,6 +109,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vatsal30/LeetCode/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/vatsal30/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -196,6 +198,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vatsal30/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vatsal30/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsal30/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/vatsal30/LeetCode/tree/master/0027-remove-element) |
