@@ -16,4 +16,3 @@ class Solution:
                 balls[ball] = color
             ans.append(len(colors.keys()))
         return ans
-
