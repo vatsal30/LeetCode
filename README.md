@@ -80,6 +80,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [2292-counting-words-with-a-given-prefix](https://github.com/vatsal30/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/vatsal30/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vatsal30/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2448-count-number-of-bad-pairs](https://github.com/vatsal30/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/vatsal30/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vatsal30/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -109,6 +110,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [1146-greatest-common-divisor-of-strings](https://github.com/vatsal30/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/vatsal30/LeetCode/tree/master/1642-water-bottles) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/vatsal30/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/vatsal30/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Monotonic Stack
 |  |
@@ -271,6 +273,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vatsal30/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2429-design-a-food-rating-system](https://github.com/vatsal30/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/vatsal30/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/vatsal30/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vatsal30/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vatsal30/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -448,6 +451,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vatsal30/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/vatsal30/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/vatsal30/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
 |  |
