@@ -1,6 +1,5 @@
 class Solution:
     def countBadPairs(self, nums: List[int]) -> int:
-        ans = 0
         n = len(nums)
         diff = Counter([idx - nums[idx] for idx in range(n)])
         bad = n * (n-1) // 2
