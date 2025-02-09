@@ -1,9 +1,10 @@
 class Solution:
     def countBadPairs(self, nums: List[int]) -> int:
         ans = 0
-        diff = Counter()
-        for idx, num in enumerate(nums):
-            curr_diff = num - idx
-            diff[curr_diff] += 1
-            ans += (idx + 1) - diff[curr_diff]
-        return ans
+        n = len(nums)
+        diff = Counter([idx - nums[idx] for idx in range(n)])
+        total = n * (n-1) // 2
+        good = 0
+        for good_pair in diff.values():
+            good += (good_pair) * (good_pair - 1) // 2
+        return total - good
