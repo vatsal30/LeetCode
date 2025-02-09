@@ -1,7 +1,7 @@
 class Solution:
     def countBadPairs(self, nums: List[int]) -> int:
         ans = 0
-        diff = defaultdict(int)
+        diff = Counter()
         for idx, num in enumerate(nums):
             curr_diff = num - idx
             diff[curr_diff] += 1
