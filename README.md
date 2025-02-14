@@ -26,6 +26,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vatsal30/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vatsal30/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1477-product-of-the-last-k-numbers](https://github.com/vatsal30/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/vatsal30/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/vatsal30/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/vatsal30/LeetCode/tree/master/3678-design-task-manager) |
@@ -68,6 +69,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [1217-relative-sort-array](https://github.com/vatsal30/LeetCode/tree/master/1217-relative-sort-array) |
 | [1364-tuple-with-same-product](https://github.com/vatsal30/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/vatsal30/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/vatsal30/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vatsal30/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vatsal30/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -111,6 +113,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0380-insert-delete-getrandom-o1](https://github.com/vatsal30/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vatsal30/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vatsal30/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1477-product-of-the-last-k-numbers](https://github.com/vatsal30/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/vatsal30/LeetCode/tree/master/1642-water-bottles) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/vatsal30/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -391,6 +394,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vatsal30/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1477-product-of-the-last-k-numbers](https://github.com/vatsal30/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vatsal30/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vatsal30/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vatsal30/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -507,4 +511,8 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/vatsal30/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vatsal30/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/vatsal30/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
