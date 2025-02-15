@@ -117,6 +117,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [1642-water-bottles](https://github.com/vatsal30/LeetCode/tree/master/1642-water-bottles) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/vatsal30/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/vatsal30/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/vatsal30/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Monotonic Stack
 |  |
@@ -385,6 +386,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | ------- |
 | [0022-generate-parentheses](https://github.com/vatsal30/LeetCode/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/vatsal30/LeetCode/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/vatsal30/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Memoization
 |  |
 | ------- |
