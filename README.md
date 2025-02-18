@@ -40,6 +40,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0027-remove-element](https://github.com/vatsal30/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/vatsal30/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/vatsal30/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/vatsal30/LeetCode/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vatsal30/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vatsal30/LeetCode/tree/master/0066-plus-one) |
@@ -142,6 +143,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | ------- |
 | [0015-3sum](https://github.com/vatsal30/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsal30/LeetCode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/vatsal30/LeetCode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vatsal30/LeetCode/tree/master/0268-missing-number) |
@@ -386,6 +388,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vatsal30/LeetCode/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/vatsal30/LeetCode/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/vatsal30/LeetCode/tree/master/0494-target-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/vatsal30/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vatsal30/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
