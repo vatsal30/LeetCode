@@ -247,6 +247,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0459-repeated-substring-pattern](https://github.com/vatsal30/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/vatsal30/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vatsal30/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1160-letter-tile-possibilities](https://github.com/vatsal30/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/vatsal30/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/vatsal30/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -276,6 +277,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vatsal30/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1160-letter-tile-possibilities](https://github.com/vatsal30/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/vatsal30/LeetCode/tree/master/1217-relative-sort-array) |
 | [1364-tuple-with-same-product](https://github.com/vatsal30/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/vatsal30/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -390,6 +392,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0022-generate-parentheses](https://github.com/vatsal30/LeetCode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/vatsal30/LeetCode/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/vatsal30/LeetCode/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/vatsal30/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/vatsal30/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vatsal30/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Memoization
@@ -466,6 +469,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/vatsal30/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/vatsal30/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/vatsal30/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/vatsal30/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
