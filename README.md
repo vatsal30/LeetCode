@@ -95,6 +95,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vatsal30/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/vatsal30/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/vatsal30/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vatsal30/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vatsal30/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vatsal30/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -349,6 +350,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0268-missing-number](https://github.com/vatsal30/LeetCode/tree/master/0268-missing-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vatsal30/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/vatsal30/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vatsal30/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
