@@ -170,6 +170,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vatsal30/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vatsal30/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vatsal30/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -187,6 +188,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vatsal30/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vatsal30/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/vatsal30/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/vatsal30/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -234,6 +236,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vatsal30/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vatsal30/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vatsal30/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
