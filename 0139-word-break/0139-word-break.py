@@ -1,27 +1,19 @@
-# class TrieNode:
-#     def __init__(self):
-    
-
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        root = {}
-        end_symbol = "*"
-        for word in wordDict:
-            curr = root
-            for letter in word:
-                if letter not in curr:
-                    curr[letter] = {}
-                curr = curr[letter]
-            curr[end_symbol] = True
+
+        @lru_cache(None)
+        def helper(i, mw):
+            if i >= len(s):
+                return True
+            if i + len(mw) >= len(s) and s[i:i+len(mw)] != mw:
+                return False
+            if s[i:i+len(mw)] == mw:
+                for word in wordDict:
+                    if helper(i+len(mw), word):
+                        return True
+            return False
         
-        dp = [False] * len(s)
-        for idx in range(len(s)):
-            if idx == 0 or dp[idx - 1]:
-                curr = root
-                for j in range(idx, len(s)):
-                    if s[j] not in curr:
-                        break
-                    curr = curr[s[j]]
-                    if end_symbol in curr:
-                        dp[j] = True
-        return dp[-1]
+        for word in wordDict:
+            if helper(0, word):
+                return True
+        return False
