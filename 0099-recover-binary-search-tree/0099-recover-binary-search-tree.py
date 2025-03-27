@@ -10,8 +10,6 @@ class Solution:
         self.inorder(root)
         node1, node2 = self.findDiscrepancy()
         if node1 and node2:
-            print(node1.val)
-            print(node2.val)
             node1.val, node2.val = node2.val, node1.val
 
     def inorder(self, root):
