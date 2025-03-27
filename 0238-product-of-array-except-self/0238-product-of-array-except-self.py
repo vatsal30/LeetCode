@@ -1,13 +1,16 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        n = len(nums)
-        ans = [1] * n
-        prefixProd = 1
-        for idx in range(n):
-           ans[idx] *= prefixProd
-           prefixProd *= nums[idx]
-        suffixProd = 1
-        for idx in range(n-1, -1, -1):
-            ans[idx] *= suffixProd
-            suffixProd *= nums[idx]
-        return ans
+        N = len(nums)
+        
+        prod_till_left = 1
+        leftMap = [1] * N
+        for i in range(N):
+            leftMap[i] = prod_till_left
+            prod_till_left *= nums[i]
+        
+        prod_till_right = 1
+        for i in range(N-1,-1,-1):
+            leftMap[i] *= prod_till_right
+            prod_till_right *= nums[i]
+        
+        return leftMap
