@@ -110,6 +110,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vatsal30/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/vatsal30/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vatsal30/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vatsal30/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
 | ------- |
@@ -330,6 +331,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [2791-find-the-losers-of-the-circular-game](https://github.com/vatsal30/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vatsal30/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/vatsal30/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vatsal30/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3678-design-task-manager](https://github.com/vatsal30/LeetCode/tree/master/3678-design-task-manager) |
 ## Bit Manipulation
 |  |
