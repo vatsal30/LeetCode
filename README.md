@@ -111,6 +111,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [3429-special-array-i](https://github.com/vatsal30/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vatsal30/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vatsal30/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vatsal30/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Math
 |  |
 | ------- |
@@ -384,6 +385,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vatsal30/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vatsal30/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vatsal30/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vatsal30/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3678-design-task-manager](https://github.com/vatsal30/LeetCode/tree/master/3678-design-task-manager) |
 ## Graph
 |  |
@@ -399,6 +401,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [2564-most-profitable-path-in-a-tree](https://github.com/vatsal30/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vatsal30/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/vatsal30/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vatsal30/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -511,6 +514,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [2145-grid-game](https://github.com/vatsal30/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vatsal30/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vatsal30/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vatsal30/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Counting
 |  |
 | ------- |
@@ -536,6 +540,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vatsal30/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vatsal30/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Union Find
 |  |
 | ------- |
