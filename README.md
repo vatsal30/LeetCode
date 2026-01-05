@@ -62,6 +62,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0239-sliding-window-maximum](https://github.com/vatsal30/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/vatsal30/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vatsal30/LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vatsal30/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vatsal30/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0407-trapping-rain-water-ii](https://github.com/vatsal30/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -164,6 +165,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0217-contains-duplicate](https://github.com/vatsal30/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vatsal30/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1217-relative-sort-array](https://github.com/vatsal30/LeetCode/tree/master/1217-relative-sort-array) |
@@ -316,6 +318,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0217-contains-duplicate](https://github.com/vatsal30/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vatsal30/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vatsal30/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vatsal30/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
@@ -386,6 +389,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vatsal30/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/vatsal30/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vatsal30/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2429-design-a-food-rating-system](https://github.com/vatsal30/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -529,6 +533,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1160-letter-tile-possibilities](https://github.com/vatsal30/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/vatsal30/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/vatsal30/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -547,6 +552,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | ------- |
 | [0190-reverse-bits](https://github.com/vatsal30/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vatsal30/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Shortest Path
 |  |
 | ------- |
@@ -601,4 +607,12 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vatsal30/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
