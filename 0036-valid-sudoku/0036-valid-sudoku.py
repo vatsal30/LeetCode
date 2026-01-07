@@ -14,8 +14,6 @@ class Solution:
                         cols[j][digit] = 1
                         boxs[i//3 + (j//3)*3][digit]= 1
                     else:
-                        print(digit)
-                        print(i, j, boxs)
                         return False
         return True
                         
