@@ -4,19 +4,24 @@ class Solution:
         nums.sort()
         # lookup = defaultdict(nums)
         ans = set()
-        for i in range(len(nums)):
-            target = nums[i]
+        for i, num in enumerate(nums):
+            if num > 0:
+                break
+
+            if i > 0 and num == nums[i - 1]:
+                continue
+
             idx1 = i + 1
             idx2 = len(nums) - 1
 
             while idx1 < idx2:
-                total = nums[idx1] + nums[idx2] + target
+                total = nums[idx1] + nums[idx2] + num
                 if total > 0:
                     idx2 -= 1
                 elif total < 0:
                     idx1 += 1
                 else:
-                    ans.add((nums[i], nums[idx1], nums[idx2]))
+                    ans.add((num, nums[idx1], nums[idx2]))
                     idx1 += 1
                     idx2 -= 1
         return list(ans)
