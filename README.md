@@ -8,6 +8,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vatsal30/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vatsal30/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vatsal30/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vatsal30/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -278,6 +279,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vatsal30/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vatsal30/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsal30/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vatsal30/LeetCode/tree/master/0049-group-anagrams) |
