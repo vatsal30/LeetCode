@@ -3,14 +3,28 @@ class Solution:
         stack = []
         expr = ['+', '-', '*', '/']
         for token in tokens:
-            if token in expr:
+            if token == "+":
                 val2 = stack.pop()
                 val1 = stack.pop()
-                result = eval(val1 + token + val2)
-                stack.append(str(int(result)))
-                
+                result = val1 + val2
+                stack.append(result)
+            elif token == "-":
+                val2 = stack.pop()
+                val1 = stack.pop()
+                result = val1 - val2
+                stack.append(result)
+            elif token == "*":
+                val2 = stack.pop()
+                val1 = stack.pop()
+                result = val1 * val2
+                stack.append(result)
+            elif token == "/":
+                val2 = stack.pop()
+                val1 = stack.pop()
+                result = float(val1) / val2
+                stack.append(int(result))
             else:
-                stack.append(token)
-        return int(stack.pop())
+                stack.append(int(token))
+        return stack.pop()
 
         
