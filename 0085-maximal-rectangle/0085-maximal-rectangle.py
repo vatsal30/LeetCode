@@ -9,7 +9,6 @@ class Solution:
                     arr[idx] = 0
                 else:
                     arr[idx] += 1
-            print(arr)
             for idx in range(len(arr)):
                 while stack[-1] != -1 and arr[stack[-1]] > arr[idx]:
                     height = arr[stack.pop()]
