@@ -1,24 +1,19 @@
+from collections import defaultdict
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        l = 0
-        c_frequency = {}
-        longest_str_len = 0
-        for r in range(len(s)):
-            
-            if not s[r] in c_frequency:
-                c_frequency[s[r]] = 0
-            c_frequency[s[r]] += 1
-            
-            # Replacements cost = cells count between left and right - highest frequency
-            cells_count = r - l + 1
-            if cells_count - max(c_frequency.values()) <= k:
-                longest_str_len = max(longest_str_len, cells_count)
-                
+        max_freq = 0
+        left = 0
+        right = 0
+        freq = defaultdict(int)
+        ans = 0
+        while right < len(s):
+            freq[s[right]] += 1
+            max_freq = max(freq[s[right]], max_freq)
+            if (right - left + 1 - max_freq) <= k:
+                ans = max(ans, right - left + 1)
             else:
-                c_frequency[s[l]] -= 1
-                if not c_frequency[s[l]]:
-                    c_frequency.pop(s[l])
-                l += 1
-        
-        return longest_str_len
-        
+                freq[s[left]]-=1
+                left += 1
+                
+            right += 1
+        return ans
