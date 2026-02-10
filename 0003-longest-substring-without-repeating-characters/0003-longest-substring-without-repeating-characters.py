@@ -5,14 +5,9 @@ class Solution:
         max_len = 0
         seen = {}
         while r < len(s):
-            seen[s[r]] = seen.get(s[r], 0) + 1
-            if seen[s[r]] > 1:
-                while s[l] != s[r]:
-                    seen[s[l]] -= 1
-                    l += 1
-                seen[s[l]] -= 1
-                l += 1
-                
+            if seen.get(s[r], -1) >= l:
+                l = seen[s[r]] + 1
+            seen[s[r]] = r
             max_len = max((r - l + 1), max_len)
             r += 1
         return max_len
