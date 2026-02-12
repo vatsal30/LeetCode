@@ -298,6 +298,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0022-generate-parentheses](https://github.com/vatsal30/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsal30/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vatsal30/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/vatsal30/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/vatsal30/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -336,6 +337,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0003-longest-substring-without-repeating-characters](https://github.com/vatsal30/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/vatsal30/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/vatsal30/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/vatsal30/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/vatsal30/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -633,6 +635,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vatsal30/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/vatsal30/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/vatsal30/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vatsal30/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vatsal30/LeetCode/tree/master/0567-permutation-in-string) |
