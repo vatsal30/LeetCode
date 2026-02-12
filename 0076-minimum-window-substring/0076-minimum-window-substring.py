@@ -26,7 +26,7 @@ class Solution:
                         min_left_idx = left
                     s_map[left_char] -= 1
                     left += 1
-                    if s_map[left_char] < t_map.get(left_char):  
+                    if s_map[left_char] < t_map[left_char]:  
                         matched -= t_map[left_char]
                         break
             right += 1
