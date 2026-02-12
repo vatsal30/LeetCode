@@ -10,21 +10,24 @@ class Solution:
         min_left_idx = 0
         formed = 0
         s_map = defaultdict(int)
-        while right < len(s):
+        for right in range(len(s)):
             right_char = s[right]
             s_map[right_char] += 1
-            if s_map[right_char] == t_map[right_char]:
+            
+            if right_char in t_map and s_map[right_char] == t_map[right_char]:
                 formed += 1
-            if formed == required:
-                while left <= right:
-                    left_char = s[left]
-                    if right-left+1 < min_len:
-                        min_len = right - left + 1
-                        min_left_idx = left
-                    s_map[left_char] -= 1
-                    left += 1
-                    if s_map[left_char] < t_map[left_char]:  
-                        formed -= 1
-                        break
-            right += 1
+    
+            while formed == required:
+                curr_len = right-left+1 
+                
+                if curr_len < min_len:
+                    min_len = curr_len
+                    min_left_idx = left
+                
+                left_char = s[left]
+                s_map[left_char] -= 1
+                
+                if s_map[left_char] < t_map[left_char]:  
+                    formed -= 1
+                left += 1
         return "" if min_len == float("inf") else s[min_left_idx:min_left_idx+min_len]
