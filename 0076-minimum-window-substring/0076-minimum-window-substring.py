@@ -1,33 +1,35 @@
-from collections import defaultdict, Counter
+from collections import defaultdict
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if len(t) > len(s):
+        if len(s) < len(t):
             return ""
-        t_map = Counter(t)
-        required = len(t_map)
-        left, right = 0, 0
-        min_len = float("inf")
-        min_left_idx = 0
-        formed = 0
-        s_map = defaultdict(int)
+        
+        right = 0
+        left = 0
+        t_freq = {}
+        s_freq = defaultdict(int)
+        ans = (0, float("inf"))
+        needed = len(t)
+        have = 0
+
+        for i in range(needed):
+            t_freq[t[i]] = t_freq.get(t[i], 0) + 1
+        
         for right in range(len(s)):
             right_char = s[right]
-            s_map[right_char] += 1
+            s_freq[right_char] += 1
+            char_freq = s_freq[right_char]
             
-            if right_char in t_map and s_map[right_char] == t_map[right_char]:
-                formed += 1
-    
-            while formed == required:
-                curr_len = right-left+1 
-                
-                if curr_len < min_len:
-                    min_len = curr_len
-                    min_left_idx = left
-                
+            if right_char in t_freq and char_freq == t_freq[right_char]:
+                have += char_freq
+            
+            while have == needed and left <= right:
+                if ((ans[1] - ans[0]) > (right - left)):
+                    ans = (left, right)
+
                 left_char = s[left]
-                s_map[left_char] -= 1
-                
-                if s_map[left_char] < t_map[left_char]:  
-                    formed -= 1
-                left += 1
-        return "" if min_len == float("inf") else s[min_left_idx:min_left_idx+min_len]
+                s_freq[left_char] -= 1 
+                if left_char in t_freq and s_freq[left_char] < t_freq[left_char]:
+                    have -= t_freq[left_char]
+                left += 1    
+        return s[ans[0]:ans[1]+1] if ans[1] != float("inf") else ""
