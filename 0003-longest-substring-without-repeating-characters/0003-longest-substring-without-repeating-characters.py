@@ -1,13 +1,17 @@
+from collections import defaultdict
+
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        l = 0
-        r = 0
-        max_len = 0
-        seen = {}
-        while r < len(s):
-            if seen.get(s[r], -1) >= l:
-                l = seen[s[r]] + 1
-            seen[s[r]] = r
-            max_len = max((r - l + 1), max_len)
-            r += 1
-        return max_len
+        left = 0 
+        right = 0
+        ans = 0
+        checker = defaultdict(int)
+        for right in range(len(s)):
+            checker[s[right]] = checker[s[right]] + 1
+            while checker[s[right]] > 1:
+                checker[s[left]] -= 1
+                if checker[s[left]] == 0:
+                    del checker[s[left]]
+                left += 1
+            ans = max(ans, right - left + 1)
+        return ans
