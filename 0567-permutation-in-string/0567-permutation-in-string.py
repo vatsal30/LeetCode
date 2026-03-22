@@ -14,20 +14,13 @@ class Solution:
         if s1_c == s2_c:
             return True
 
-        left = 0
-        s2_c[ord(s2[left]) - 97] -= 1
-        left += 1
+        left = 1
         for right in range(len(s1), len(s2)):
+            s2_c[ord(s2[left - 1]) - 97] -= 1
             s2_c[ord(s2[right]) - 97] += 1
 
-            matched = 0
-            for i in range(26):
-                if s2_c[i] == s1_c[i]:
-                    matched += 1
-
-            if matched == 26:
+            if s1_c == s2_c:
                 return True
 
-            s2_c[ord(s2[left]) - 97] -= 1
             left += 1
         return False
