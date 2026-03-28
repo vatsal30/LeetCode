@@ -81,6 +81,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/vatsal30/LeetCode/tree/master/0853-car-fleet) |
 | [0854-making-a-large-island](https://github.com/vatsal30/LeetCode/tree/master/0854-making-a-large-island) |
+| [0904-fruit-into-baskets](https://github.com/vatsal30/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1025-minimum-cost-for-tickets](https://github.com/vatsal30/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/vatsal30/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1200-minimum-absolute-difference](https://github.com/vatsal30/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -351,6 +352,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0424-longest-repeating-character-replacement](https://github.com/vatsal30/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vatsal30/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-fruit-into-baskets](https://github.com/vatsal30/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1160-letter-tile-possibilities](https://github.com/vatsal30/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/vatsal30/LeetCode/tree/master/1217-relative-sort-array) |
 | [1364-tuple-with-same-product](https://github.com/vatsal30/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -639,6 +641,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0239-sliding-window-maximum](https://github.com/vatsal30/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vatsal30/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vatsal30/LeetCode/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/vatsal30/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Monotonic Queue
 |  |
 | ------- |
