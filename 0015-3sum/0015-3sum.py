@@ -1,29 +1,27 @@
-from collections import defaultdict
 class Solution:
-    def threeSum(self, nums: List[int]) -> List[List[int]]:
-        nums.sort()
-        # lookup = defaultdict(nums)
-        ans = []
-        for i, num in enumerate(nums):
-            if num > 0:
-                break
-
-            if i > 0 and num == nums[i - 1]:
-                continue
-
-            idx1 = i + 1
-            idx2 = len(nums) - 1
-
-            while idx1 < idx2:
-                total = nums[idx1] + nums[idx2] + num
-                if total > 0:
-                    idx2 -= 1
-                elif total < 0:
-                    idx1 += 1
+    def threeSum(self, nums: list[int]) -> list[list[int]]:
+        nums = sorted(nums)
+        i = 0
+        n = len(nums) - 1
+        ans = list()
+        while i <= n - 2:
+            j = i + 1
+            k = n
+            while j < k:
+                currSum = nums[j] + nums[k]
+                if currSum == -nums[i]:
+                    ans.append([nums[i], nums[j], nums[k]])
+                    j += 1
+                    k -= 1
+                    while j < k and nums[j] == nums[j - 1]:
+                        j += 1
+                    while j < k and nums[k] == nums[k + 1]:
+                        k -= 1
+                elif currSum < -nums[i]:
+                    j += 1
                 else:
-                    ans.append([num, nums[idx1], nums[idx2]])
-                    idx1 += 1
-                    idx2 -= 1
-                    while nums[idx1] == nums[idx1 - 1] and idx1 < idx2:
-                        idx1 += 1
+                    k -= 1
+            i += 1
+            while i < n and nums[i] == nums[i-1]:
+                i += 1
         return ans
