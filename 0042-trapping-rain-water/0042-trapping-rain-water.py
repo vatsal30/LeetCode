@@ -1,22 +1,14 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-        n = len(height)
-        if n < 3:
-            return 0
+        n = len(height) - 1
+        leftArr = [0] * (n + 1)
+        rightArr = [0] * (n + 1)
+        leftArr[0] = height[0]
+        rightArr[n] = height[n]
+        for i in range(1, n + 1):
+            leftArr[i] = max(leftArr[i-1], height[i])
+            rightArr[n-i]  = max(rightArr[n-i+1], height[n-i])
         ans = 0
-        idx = 0
-        idx2 = n - 1
-        leftMax = height[idx]
-        rightMax = height[idx2]
-        while idx < idx2:
-            if rightMax > leftMax:
-                idx += 1
-                leftMax = max(leftMax, height[idx])
-                ans += leftMax - height[idx]
-            else:
-                idx2 -= 1
-                rightMax = max(rightMax, height[idx2])
-                ans += rightMax - height[idx2]
+        for i, h in enumerate(height):
+            ans += min(leftArr[i], rightArr[i]) - h
         return ans
-
-                
