@@ -4,7 +4,13 @@ class Solution:
         i = 0
         n = len(nums) - 1
         ans = list()
-        while i <= n - 2:
+        for i in range(n):
+            if nums[i] > 0:
+                break
+        
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
+                
             j = i + 1
             k = n
             while j < k:
@@ -21,7 +27,5 @@ class Solution:
                     j += 1
                 else:
                     k -= 1
-            i += 1
-            while i < n and nums[i] == nums[i-1]:
-                i += 1
+            
         return ans
