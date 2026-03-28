@@ -1,14 +1,16 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-        n = len(height) - 1
-        leftArr = [0] * (n + 1)
-        rightArr = [0] * (n + 1)
-        leftArr[0] = height[0]
-        rightArr[n] = height[n]
-        for i in range(1, n + 1):
-            leftArr[i] = max(leftArr[i-1], height[i])
-            rightArr[n-i]  = max(rightArr[n-i+1], height[n-i])
+        maxLeft = 0
+        maxRight = 0
+        left, right = 0, len(height) - 1
         ans = 0
-        for i, h in enumerate(height):
-            ans += min(leftArr[i], rightArr[i]) - h
+        while left <= right:
+            if maxLeft <= maxRight:
+                maxLeft = max(maxLeft, height[left])
+                ans += maxLeft - height[left]
+                left += 1
+            else:
+                maxRight = max(maxRight, height[right])
+                ans += maxRight - height[right]
+                right -= 1
         return ans
