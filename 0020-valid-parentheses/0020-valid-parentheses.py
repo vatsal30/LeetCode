@@ -1,13 +1,12 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        checker = []
-        parenMap = {')': '(', ']': '[', '}': '{'}
-        for c in s:
-            if c in parenMap:
-                if len(checker) == 0 or checker.pop() != parenMap[c]:
-                    return False
+        stack = []
+        b_map = {')': '(', '}': '{', ']': '['}
+        for b in s:
+            if b in '({[':
+                stack.append(b)
+            elif stack and stack[-1] == b_map[b]:
+                stack.pop()
             else:
-                checker.append(c)
-        return len(checker) == 0
-
-        
+                return False
+        return False if stack else True
