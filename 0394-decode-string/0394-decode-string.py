@@ -17,4 +17,4 @@ class Solution:
                 es = ps + cnt*es
             else:
                 es += c
-        return ''.join(cs) + es
+        return es
