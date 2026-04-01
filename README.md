@@ -19,6 +19,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0739-daily-temperatures](https://github.com/vatsal30/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/vatsal30/LeetCode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/vatsal30/LeetCode/tree/master/0901-online-stock-span) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/vatsal30/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vatsal30/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vatsal30/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -32,6 +33,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vatsal30/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vatsal30/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0901-online-stock-span](https://github.com/vatsal30/LeetCode/tree/master/0901-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vatsal30/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/vatsal30/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -157,6 +159,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0739-daily-temperatures](https://github.com/vatsal30/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/vatsal30/LeetCode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/vatsal30/LeetCode/tree/master/0901-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vatsal30/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vatsal30/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Greedy
@@ -631,6 +634,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/vatsal30/LeetCode/tree/master/0901-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vatsal30/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
 |  |
