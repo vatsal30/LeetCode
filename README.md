@@ -58,6 +58,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vatsal30/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vatsal30/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/vatsal30/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vatsal30/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vatsal30/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -415,6 +416,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/vatsal30/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsal30/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/vatsal30/LeetCode/tree/master/0268-missing-number) |
@@ -571,6 +573,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0036-valid-sudoku](https://github.com/vatsal30/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vatsal30/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/vatsal30/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/vatsal30/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/vatsal30/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/vatsal30/LeetCode/tree/master/0542-01-matrix) |
