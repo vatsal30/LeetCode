@@ -690,6 +690,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | ------- |
 | [0175-combine-two-tables](https://github.com/vatsal30/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/vatsal30/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0262-trips-and-users](https://github.com/vatsal30/LeetCode/tree/master/0262-trips-and-users) |
 | [0577-employee-bonus](https://github.com/vatsal30/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/vatsal30/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vatsal30/LeetCode/tree/master/0595-big-countries) |
