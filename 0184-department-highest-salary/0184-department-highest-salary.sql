@@ -9,7 +9,7 @@ WITH employe_salary_rank AS (
             ORDER BY e.salary DESC
         ) AS salary_rank
     FROM Employee AS e 
-    JOIN Department as d WHERE e.departmentId = d.id
+    JOIN Department as d ON e.departmentId = d.id
 )
 
 SELECT Department, Employee, Salary
