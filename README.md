@@ -702,6 +702,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [1193-monthly-transactions-i](https://github.com/vatsal30/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/vatsal30/LeetCode/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/vatsal30/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1341-movie-rating](https://github.com/vatsal30/LeetCode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vatsal30/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vatsal30/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/vatsal30/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
