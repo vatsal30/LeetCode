@@ -702,6 +702,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0595-big-countries](https://github.com/vatsal30/LeetCode/tree/master/0595-big-countries) |
 | [0601-human-traffic-of-stadium](https://github.com/vatsal30/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/vatsal30/LeetCode/tree/master/0608-tree-node) |
+| [0619-biggest-single-number](https://github.com/vatsal30/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/vatsal30/LeetCode/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/vatsal30/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/vatsal30/LeetCode/tree/master/1068-product-sales-analysis-i) |
