@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-DELETE FROM Person AS P
+DELETE FROM Person
 WHERE id NOT IN (
     SELECT 
         P1.min_id
