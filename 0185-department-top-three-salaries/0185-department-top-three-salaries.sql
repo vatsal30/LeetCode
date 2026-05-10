@@ -15,4 +15,4 @@ SELECT d.name AS Department,
 FROM ranked_salaries AS e
 JOIN Department AS d
     ON e.departmentId = d.id
-WHERE rnk BETWEEN 1 AND 3
+WHERE rnk <= 3
