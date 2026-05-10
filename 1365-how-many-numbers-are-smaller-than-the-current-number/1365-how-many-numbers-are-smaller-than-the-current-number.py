@@ -1,4 +1,8 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        ordered = sorted(nums)
-        return [bisect_left(ordered, num) for num in nums]
+        count = [0] * 102
+        for num in nums:
+            count[num] += 1
+        for i, cnt in enumerate(count):
+            count[i] += count[i - 1]
+        return [count[num - 1] if num > 0 else 0 for num in nums] 
