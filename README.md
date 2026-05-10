@@ -113,6 +113,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vatsal30/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/vatsal30/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/vatsal30/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/vatsal30/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/vatsal30/LeetCode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vatsal30/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -569,6 +570,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | ------- |
 | [0735-asteroid-collision](https://github.com/vatsal30/LeetCode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/vatsal30/LeetCode/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/vatsal30/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vatsal30/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/vatsal30/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vatsal30/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
