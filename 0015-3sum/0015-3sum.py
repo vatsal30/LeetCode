@@ -4,7 +4,6 @@ class Solution:
         nums.sort()
         i = 0
         while i < len(nums) - 2:
-
             target = -nums[i]
             j = i + 1
             k = len(nums) - 1
@@ -21,8 +20,7 @@ class Solution:
                     while j < k and nums[k] == nums[k - 1]:
                         k -= 1
                     k -= 1
-    
-            while nums[i] == nums[i + 1] and i < len(nums) - 2:
+            while i < len(nums) - 2 and nums[i] == nums[i + 1]:
                 i += 1
             i += 1
         return ans
