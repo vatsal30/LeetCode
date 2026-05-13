@@ -9,6 +9,5 @@ class Solution:
             if s[right] in visited and left <= visited[s[right]]:
                 ans = max(right - left, ans)
                 left = visited[s[right]] + 1
-                del visited[s[right]]
             visited[s[right]] = right
         return max(ans, right - left + 1)
