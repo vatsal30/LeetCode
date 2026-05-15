@@ -755,4 +755,8 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [1907-count-salary-categories](https://github.com/vatsal30/LeetCode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/vatsal30/LeetCode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/vatsal30/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vatsal30/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
