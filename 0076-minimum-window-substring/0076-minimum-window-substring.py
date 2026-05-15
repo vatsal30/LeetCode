@@ -1,31 +1,30 @@
 from collections import defaultdict, Counter
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if len(s) < len(t):
+        n = len(t)
+        m = len(s)
+        if n > m:
             return ""
-
+        t_dict = Counter(t)
+        s_dict = defaultdict(int)
         left = 0
-        t_freq = Counter(t)
-        s_freq = defaultdict(int)
-        ans = (0, float("inf"))
-        needed = len(t_freq)
         have = 0
-        
-        for right in range(len(s)):
-            right_char = s[right]
-            s_freq[right_char] += 1
-            char_freq = s_freq[right_char]
-            
-            if right_char in t_freq and char_freq == t_freq[right_char]:
+        needed = len(t_dict)
+        ans = (0, float("inf"))
+
+        for right in range(m):
+            right_c = s[right]
+            s_dict[right_c] += 1
+            if right_c in t_dict and t_dict[right_c] == s_dict[right_c]:
                 have += 1
             
-            while have == needed and left <= right:
-                if ((ans[1] - ans[0]) > (right - left)):
+            while have == needed:
+                if (ans[1] - ans[0]) > right - left:
                     ans = (left, right)
-
-                left_char = s[left]
-                s_freq[left_char] -= 1 
-                if left_char in t_freq and s_freq[left_char] < t_freq[left_char]:
+                left_c = s[left]
+                s_dict[left_c] -= 1
+                if left_c in t_dict and s_dict[left_c] < t_dict[left_c]:
                     have -= 1
-                left += 1    
-        return s[ans[0]:ans[1]+1] if ans[1] != float("inf") else ""
+                left += 1
+        
+        return s[ans[0]: ans[1] + 1] if ans[1] != float("inf") else ""
