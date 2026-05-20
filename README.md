@@ -559,10 +559,12 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vatsal30/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/vatsal30/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vatsal30/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/vatsal30/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/vatsal30/LeetCode/tree/master/0394-decode-string) |
 ## Trie
 |  |
