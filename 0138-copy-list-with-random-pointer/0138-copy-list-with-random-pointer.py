@@ -27,7 +27,7 @@ class Solution:
         old = head
         new = head.next
         curr = new
-        while curr.next:
+        while old:
             old.next = curr.next
             old = old.next
             if curr.next:
