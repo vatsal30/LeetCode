@@ -304,6 +304,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0011-container-with-most-water](https://github.com/vatsal30/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vatsal30/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsal30/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vatsal30/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/vatsal30/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsal30/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/vatsal30/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -564,6 +565,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vatsal30/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vatsal30/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vatsal30/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vatsal30/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vatsal30/LeetCode/tree/master/0143-reorder-list) |
