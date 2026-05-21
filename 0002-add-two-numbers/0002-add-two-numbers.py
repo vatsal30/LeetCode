@@ -9,16 +9,19 @@ class Solution:
         dummy = ListNode(0, None)
         curr = dummy
         while l1 or l2:
-            first_val = l1.val if l1 else 0
-            second_val = l2.val if l2 else 0
-            sum_ans = first_val + second_val + carry
-            quo = sum_ans % 10
-            carry = sum_ans // 10
-            curr.next = ListNode(quo, None)
+            ans = carry
+            if l1:
+                ans += l1.val
+                l1 = l1.next
+            if l2:
+                ans += l2.val
+                l2 = l2.next
+            
+            digit = ans % 10
+            carry = ans // 10
+            curr.next = ListNode(digit, None)
             curr = curr.next
-            l1 = l1.next if l1 else l1
-            l2 = l2.next if l2 else l2
         if carry:
-            curr.next = ListNode(1, None)
+            curr.next = ListNode(carry, None)
         return dummy.next
         
