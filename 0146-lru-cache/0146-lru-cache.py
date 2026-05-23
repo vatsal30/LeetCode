@@ -27,8 +27,7 @@ class LRUCache:
     
     def _remove_from_tail(self):
         node = self.tail.prev
-        node.prev.next = self.tail
-        self.tail.prev = node.prev
+        self._remove(node)
         del self.map[node.key]
 
     def get(self, key: int) -> int:
