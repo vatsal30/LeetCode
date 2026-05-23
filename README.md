@@ -34,6 +34,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vatsal30/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vatsal30/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vatsal30/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -378,6 +379,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0138-copy-list-with-random-pointer](https://github.com/vatsal30/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/vatsal30/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/vatsal30/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/vatsal30/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
@@ -578,6 +580,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0138-copy-list-with-random-pointer](https://github.com/vatsal30/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vatsal30/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vatsal30/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/vatsal30/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/vatsal30/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vatsal30/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vatsal30/LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -789,4 +792,8 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vatsal30/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vatsal30/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
