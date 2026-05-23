@@ -7,15 +7,12 @@ class Solution:
     def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head:
             return head
-        prev, curr = head, head.next
-        while curr and curr.next:
-            odd = curr.next
-            even = odd.next
-            odd.next = prev.next
-            prev.next = odd
-            curr.next = even
-            prev = prev.next
-            curr = curr.next
-
+        odd, even = head, head.next
+        even_head = even
+        while even and even.next:
+            odd.next = even.next
+            even.next = even.next.next
+            odd, even = odd.next, even.next
+        odd.next = even_head
         return head
         
