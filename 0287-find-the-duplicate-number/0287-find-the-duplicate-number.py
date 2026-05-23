@@ -7,7 +7,7 @@ class Solution:
             fast = nums[nums[fast]]
         
         curr = 0
-        while nums[slow] != nums[curr]:
+        while slow != curr:
             curr = nums[curr]
             slow = nums[slow]
-        return nums[curr]
+        return curr
