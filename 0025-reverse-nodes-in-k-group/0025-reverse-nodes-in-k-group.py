@@ -4,33 +4,29 @@
 #         self.val = val
 #         self.next = next
 class Solution:
+    def getKth(self, curr, k):
+        while curr and k > 0:
+            curr = curr.next
+            k -= 1
+        return curr
+
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         dummy = ListNode(0, head)
-        prev = dummy
-        curr = dummy.next
-        
-        while curr:
-            cnt = 0
-            for _ in range(k-1):
-                next_node = curr.next
-                if next_node is None:
-                    break
-                curr.next = next_node.next
-                next_node.next = prev.next
-                prev.next = next_node
-                cnt += 1
-            
-            if cnt != (k-1):
-                curr = prev.next
-                for _ in range(cnt):
-                    next_node = curr.next
-                    curr.next = next_node.next
-                    next_node.next = prev.next
-                    prev.next = next_node
+        main_prev = dummy
+        while True:
+            kth_node = self.getKth(main_prev, k)
+            if not kth_node:
                 break
-            prev = curr
-            curr = curr.next
+            main_next = kth_node.next
             
-
+            prev, curr = kth_node.next, main_prev.next
+            while curr != main_next:
+                next_node = curr.next
+                curr.next = prev
+                prev = curr
+                curr = next_node
+            temp = main_prev.next
+            main_prev.next = kth_node
+            main_prev = temp
         return dummy.next
                 
