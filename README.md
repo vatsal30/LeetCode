@@ -222,6 +222,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0099-recover-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vatsal30/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vatsal30/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vatsal30/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vatsal30/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -242,6 +243,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0145-binary-tree-postorder-traversal](https://github.com/vatsal30/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/vatsal30/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vatsal30/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vatsal30/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vatsal30/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -266,6 +268,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | ------- |
 | [0207-course-schedule](https://github.com/vatsal30/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vatsal30/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vatsal30/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/vatsal30/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vatsal30/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -292,6 +295,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0099-recover-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vatsal30/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vatsal30/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vatsal30/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vatsal30/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
