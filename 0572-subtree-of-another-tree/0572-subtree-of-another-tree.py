@@ -8,9 +8,9 @@ class Solution:
     def treeChecker(self, node1, node2):
         if not node1 or not node2:
             return node1 == node2
-        if node1.val != node2.val:
-            return False
-        return self.treeChecker(node1.right, node2.right) and self.treeChecker(node1.left, node2.left)
+        if node1.val == node2.val:
+            return self.treeChecker(node1.left, node2.left) and self.treeChecker(node1.right, node2.right)
+        return False
  
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
         if not root:
