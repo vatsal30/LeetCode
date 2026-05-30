@@ -219,6 +219,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vatsal30/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vatsal30/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -246,6 +247,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vatsal30/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -312,6 +314,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vatsal30/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vatsal30/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -733,6 +736,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
