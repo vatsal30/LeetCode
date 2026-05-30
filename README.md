@@ -237,6 +237,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vatsal30/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vatsal30/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/vatsal30/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -269,6 +270,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vatsal30/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/vatsal30/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/vatsal30/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/vatsal30/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -297,6 +299,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0854-making-a-large-island](https://github.com/vatsal30/LeetCode/tree/master/0854-making-a-large-island) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/vatsal30/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vatsal30/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/vatsal30/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/vatsal30/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -327,6 +330,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vatsal30/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vatsal30/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Two Pointers
