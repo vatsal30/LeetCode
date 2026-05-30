@@ -231,6 +231,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0145-binary-tree-postorder-traversal](https://github.com/vatsal30/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vatsal30/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vatsal30/LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -260,6 +261,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0207-course-schedule](https://github.com/vatsal30/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vatsal30/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vatsal30/LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -327,6 +329,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0145-binary-tree-postorder-traversal](https://github.com/vatsal30/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vatsal30/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vatsal30/LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -743,6 +746,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Randomized
