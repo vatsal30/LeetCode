@@ -13,8 +13,8 @@ class Solution:
             left_sum = max(dfs(node.left), 0)
             right_sum = max(dfs(node.right), 0)
             nonlocal max_sum
-            curr_sum = node.val + left_sum + right_sum
-            max_sum = max(max_sum, curr_sum)
+            max_sum = max(max_sum, left_sum + right_sum + node.val)
             return node.val + max(left_sum, right_sum)
         dfs(root)
         return max_sum
+        
