@@ -4,7 +4,6 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from collections import deque
 class Solution:
     def flatten(self, root: Optional[TreeNode]) -> None:
         """
@@ -12,7 +11,6 @@ class Solution:
         """
         if not root:
             return None
-        queue = deque([])
         stack = [root]
         while stack:
             node = stack.pop()
