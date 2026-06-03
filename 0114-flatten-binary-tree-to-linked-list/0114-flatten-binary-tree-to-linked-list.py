@@ -11,13 +11,14 @@ class Solution:
         """
         if not root:
             return None
-        stack = [root]
-        while stack:
-            node = stack.pop()
-            if node.right:
-                stack.append(node.right)
-            if node.left:
-                stack.append(node.left)
-            if stack:
-                node.right = stack[-1]
-            node.left=None
+        curr = root
+        while curr:
+            if curr.left:
+                pred = curr.left
+                while pred.right:
+                    pred = pred.right
+                pred.right = curr.right
+                curr.right = curr.left
+                curr.left = None
+            curr = curr.right
+            
