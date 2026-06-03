@@ -19,14 +19,13 @@ class Codec:
         queue = deque([root])
         res = []
         while queue:
-            for _ in range(len(queue)):
-                node = queue.popleft()
-                if node:
-                    res.append(str(node.val))
-                    queue.append(node.left)
-                    queue.append(node.right)
-                else:
-                    res.append("N")
+            node = queue.popleft()
+            if node:
+                res.append(str(node.val))
+                queue.append(node.left)
+                queue.append(node.right)
+            else:
+                res.append("N")
                 
         return ",".join(res)
 
