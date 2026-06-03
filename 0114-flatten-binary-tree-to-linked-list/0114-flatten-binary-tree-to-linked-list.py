@@ -16,15 +16,10 @@ class Solution:
         stack = [root]
         while stack:
             node = stack.pop()
-            queue.append(node.val)
             if node.right:
                 stack.append(node.right)
             if node.left:
                 stack.append(node.left)
-        
-        queue.popleft()
-        curr = root
-        while queue:
-            curr.left = None
-            curr.right = TreeNode(queue.popleft())
-            curr = curr.right
+            if stack:
+                node.right = stack[-1]
+            node.left=None
