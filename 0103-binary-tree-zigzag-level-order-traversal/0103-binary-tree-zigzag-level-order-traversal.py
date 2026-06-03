@@ -11,7 +11,7 @@ class Solution:
             return []
         result = []
         queue = deque([root])
-        cnt = 0
+        left_to_right = True
         while queue:
             level = []
             for _ in range(len(queue)):
@@ -21,10 +21,8 @@ class Solution:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            if cnt % 2 == 1:
-                result.append(list(reversed(level)))
-            else:
-                result.append(level)
-            cnt += 1
+
+            result.append(level if left_to_right else level[::-1])
+            left_to_right = not left_to_right
         return result
             
