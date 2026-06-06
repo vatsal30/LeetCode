@@ -12,6 +12,7 @@ class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
         if not root:
             return root
+        ## Iterative
         leftnode = root
         while leftnode.left:
             curr = leftnode
@@ -21,6 +22,16 @@ class Solution:
                     curr.right.next = curr.next.left
                 curr = curr.next
             leftnode = leftnode.left
+        # Recursive
+        # def dfs(node):
+        #     if node.left:
+        #         node.left.next = node.right
+        #         dfs(node.left)
+        #     if node.right:
+        #         if node.next:
+        #             node.right.next = node.next.left
+        #         dfs(node.right)
+        # dfs(root)
         return root
             
         
