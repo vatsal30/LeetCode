@@ -13,20 +13,20 @@ class Solution:
         if not head:
             return head
         curr = head  
+        stack = []
         while curr:
             if curr.child:
-                flatten = self.flatten(curr.child)
+                if curr.next:
+                    stack.append(curr.next)
+                curr.next = curr.child
+                curr.next.prev = curr
                 curr.child = None
-                next_p = curr.next
-                curr.next = flatten
-                flatten.prev = curr
-                
-                    
-                while curr and curr.next:
-                    curr = curr.next
-                if next_p:
-                    curr.next = next_p
-                    next_p.prev = curr
+            elif not curr.next and stack:
+                next_n = stack.pop()
+                curr.next = next_n
+                next_n.prev = curr
             curr = curr.next
+        return head
+
         return head
         
