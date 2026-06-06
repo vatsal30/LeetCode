@@ -12,15 +12,15 @@ class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
         if not root:
             return root
-        def dfs(node):
-            if node.left:
-                node.left.next = node.right
-                dfs(node.left)
-            if node.right:
-                if node.next:
-                    node.right.next = node.next.left
-                dfs(node.right)
-        dfs(root)
+        leftnode = root
+        while leftnode.left:
+            curr = leftnode
+            while curr:
+                curr.left.next = curr.right
+                if curr.next:
+                    curr.right.next = curr.next.left
+                curr = curr.next
+            leftnode = leftnode.left
         return root
             
         
