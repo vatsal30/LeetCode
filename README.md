@@ -244,6 +244,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vatsal30/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vatsal30/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vatsal30/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -361,6 +362,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vatsal30/LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vatsal30/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vatsal30/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vatsal30/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -782,6 +784,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0099-recover-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Randomized
 |  |
