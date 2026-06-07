@@ -7,22 +7,14 @@
 class Solution:
     def createBinaryTree(self, descriptions: List[List[int]]) -> Optional[TreeNode]:
         node_map = {}
-        child_s = set()
+        childrens = set()
         for parent, child, isLeft in descriptions:
-            if parent in node_map:
-                parent_n = node_map[parent]
-            else:
-                parent_n = TreeNode(parent)
-                node_map[parent] = parent_n
-            if child in node_map:
-                child_n = node_map[child]
-            else:
-                child_n = TreeNode(child)
-                node_map[child] = child_n
+            p = node_map.setdefault(parent, TreeNode(parent))
+            c = node_map.setdefault(child, TreeNode(child))
             if isLeft:
-                parent_n.left = child_n
+                p.left = c
             else:
-                parent_n.right = child_n
-            child_s.add(child)
-        return node_map[[key for key in node_map if key not in child_s][0]]
+                p.right = c
+            childrens.add(child)
+        return node_map[(node_map.keys() - childrens).pop()]
             
