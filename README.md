@@ -38,6 +38,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0146-lru-cache](https://github.com/vatsal30/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vatsal30/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vatsal30/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vatsal30/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vatsal30/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -278,6 +279,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0199-binary-tree-right-side-view](https://github.com/vatsal30/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/vatsal30/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vatsal30/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vatsal30/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -412,6 +414,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0125-valid-palindrome](https://github.com/vatsal30/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vatsal30/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
@@ -688,6 +691,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | ------- |
 | [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vatsal30/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vatsal30/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
