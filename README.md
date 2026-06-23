@@ -110,6 +110,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0904-fruit-into-baskets](https://github.com/vatsal30/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vatsal30/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/vatsal30/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1046-last-stone-weight](https://github.com/vatsal30/LeetCode/tree/master/1046-last-stone-weight) |
 | [1063-best-sightseeing-pair](https://github.com/vatsal30/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1200-minimum-absolute-difference](https://github.com/vatsal30/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/vatsal30/LeetCode/tree/master/1217-relative-sort-array) |
@@ -564,6 +565,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/vatsal30/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vatsal30/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/vatsal30/LeetCode/tree/master/1046-last-stone-weight) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vatsal30/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2429-design-a-food-rating-system](https://github.com/vatsal30/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/vatsal30/LeetCode/tree/master/2434-design-a-number-container-system) |
