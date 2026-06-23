@@ -108,6 +108,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0854-making-a-large-island](https://github.com/vatsal30/LeetCode/tree/master/0854-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/vatsal30/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/vatsal30/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/vatsal30/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/vatsal30/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/vatsal30/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-last-stone-weight](https://github.com/vatsal30/LeetCode/tree/master/1046-last-stone-weight) |
@@ -172,6 +173,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0371-sum-of-two-integers](https://github.com/vatsal30/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vatsal30/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vatsal30/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0973-k-closest-points-to-origin](https://github.com/vatsal30/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vatsal30/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vatsal30/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vatsal30/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -218,6 +220,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0645-set-mismatch](https://github.com/vatsal30/LeetCode/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/vatsal30/LeetCode/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/vatsal30/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/vatsal30/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/vatsal30/LeetCode/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vatsal30/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -565,6 +568,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/vatsal30/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vatsal30/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/vatsal30/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/vatsal30/LeetCode/tree/master/1046-last-stone-weight) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vatsal30/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2429-design-a-food-rating-system](https://github.com/vatsal30/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -768,6 +772,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0190-reverse-bits](https://github.com/vatsal30/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vatsal30/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/vatsal30/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Shortest Path
 |  |
 | ------- |
@@ -845,6 +850,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/vatsal30/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Database
 |  |
 | ------- |
@@ -914,4 +920,8 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vatsal30/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vatsal30/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
