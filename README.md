@@ -99,6 +99,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0485-max-consecutive-ones](https://github.com/vatsal30/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/vatsal30/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/vatsal30/LeetCode/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/vatsal30/LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/vatsal30/LeetCode/tree/master/0645-set-mismatch) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vatsal30/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0704-binary-search](https://github.com/vatsal30/LeetCode/tree/master/0704-binary-search) |
@@ -199,6 +200,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vatsal30/LeetCode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/vatsal30/LeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/vatsal30/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/vatsal30/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -219,6 +221,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0268-missing-number](https://github.com/vatsal30/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
+| [0621-task-scheduler](https://github.com/vatsal30/LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/vatsal30/LeetCode/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vatsal30/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/vatsal30/LeetCode/tree/master/0853-car-fleet) |
@@ -482,6 +485,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0424-longest-repeating-character-replacement](https://github.com/vatsal30/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/vatsal30/LeetCode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/vatsal30/LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/vatsal30/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vatsal30/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/vatsal30/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -570,6 +574,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0239-sliding-window-maximum](https://github.com/vatsal30/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/vatsal30/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/vatsal30/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vatsal30/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/vatsal30/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/vatsal30/LeetCode/tree/master/1046-last-stone-weight) |
@@ -753,6 +758,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/vatsal30/LeetCode/tree/master/0621-task-scheduler) |
 | [1160-letter-tile-possibilities](https://github.com/vatsal30/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/vatsal30/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/vatsal30/LeetCode/tree/master/1396-count-servers-that-communicate) |
