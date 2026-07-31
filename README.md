@@ -437,6 +437,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0076-minimum-window-substring](https://github.com/vatsal30/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vatsal30/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vatsal30/LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/vatsal30/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vatsal30/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -634,6 +635,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0119-pascals-triangle-ii](https://github.com/vatsal30/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vatsal30/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vatsal30/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/vatsal30/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vatsal30/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vatsal30/LeetCode/tree/master/0213-house-robber-ii) |
@@ -662,6 +664,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0079-word-search](https://github.com/vatsal30/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vatsal30/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/vatsal30/LeetCode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/vatsal30/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/vatsal30/LeetCode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/vatsal30/LeetCode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/vatsal30/LeetCode/tree/master/1160-letter-tile-possibilities) |
