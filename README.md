@@ -74,6 +74,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0066-plus-one](https://github.com/vatsal30/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/vatsal30/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/vatsal30/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vatsal30/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vatsal30/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vatsal30/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -284,6 +285,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vatsal30/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vatsal30/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vatsal30/LeetCode/tree/master/0100-same-tree) |
@@ -433,6 +435,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0049-group-anagrams](https://github.com/vatsal30/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/vatsal30/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/vatsal30/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/vatsal30/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vatsal30/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/vatsal30/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vatsal30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -656,6 +659,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0046-permutations](https://github.com/vatsal30/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vatsal30/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/vatsal30/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vatsal30/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vatsal30/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/vatsal30/LeetCode/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/vatsal30/LeetCode/tree/master/0212-word-search-ii) |
@@ -761,6 +765,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0063-unique-paths-ii](https://github.com/vatsal30/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vatsal30/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/vatsal30/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/vatsal30/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vatsal30/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/vatsal30/LeetCode/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/vatsal30/LeetCode/tree/master/0407-trapping-rain-water-ii) |
