@@ -1,25 +1,36 @@
 class Solution:
-    def solver(self, col, board, ans, n, leftRow, lowerDiagonal, upperDiagonal):
-        if (col == n):
-            ans.append(board.copy())
-            return
-        for row in range(n):
-            if (leftRow[row]==0 and lowerDiagonal[row+col] == 0 and upperDiagonal[n - 1 - row + col] == 0):
-                leftRow[row] = 1
-                lowerDiagonal[row+col] = 1
-                upperDiagonal[n - 1 - row + col] = 1
-                board[row] = board[row][:col] + 'Q' + board[row][col+1:]
-                self.solver(col+1, board, ans, n, leftRow, lowerDiagonal, upperDiagonal)
-                board[row] = board[row][:col] + '.' + board[row][col+1:]
-                leftRow[row] = 0
-                lowerDiagonal[row+col] = 0
-                upperDiagonal[n - 1 - row + col] = 0
-        
     def solveNQueens(self, n: int) -> List[List[str]]:
-        ans = []
-        board = ["."*n for i in range(n)]
-        leftRow = [0 for i in range(n)]
-        lowerDiagonal = [0 for i in range(2*n-1)]
-        upperDiagonal = [0 for i in range(2*n-1)]
-        self.solver(0, board, ans, n, leftRow, lowerDiagonal, upperDiagonal)
-        return ans
+        rows = cols = n
+        cols = set()
+        diag = set()
+        anti_diag = set()
+        result, queen = [], []
+        
+        board = [["."] * n for _ in range(n)]
+        def backtrack(start):
+            if start == n:
+                result.append(["".join(row) for row in board])
+                return
+            
+            for c in range(n):
+                diag_id = start - c
+                anti_diag_id = start + c
+                if c in cols or diag_id in diag or anti_diag_id in anti_diag:
+                    continue
+
+                cols.add(c)
+                diag.add(diag_id)
+                anti_diag.add(anti_diag_id)
+                board[start][c] = 'Q'
+
+                backtrack(start + 1)
+
+                board[start][c] = '.'
+                cols.remove(c)
+                diag.remove(diag_id)
+                anti_diag.remove(anti_diag_id)
+        backtrack(0)
+        return result
+
+        
+        
