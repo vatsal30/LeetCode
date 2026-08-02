@@ -28,7 +28,8 @@ class Twitter:
             _, tweet_id, follower_id, idx = heapq.heappop(recentTweet)
             if idx > 0:
                 idx -= 1
-                heapq.heappush(recentTweet, (-self.tweet[follower_id][idx][0], self.tweet[follower_id][idx][1], follower_id, idx))
+                tweet = self.tweet[follower_id][idx]
+                heapq.heappush(recentTweet, (-tweet[0], tweet[1], follower_id, idx))
             ans.append(tweet_id)
             cnt += 1
         return ans
