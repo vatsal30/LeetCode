@@ -20,7 +20,8 @@ class Twitter:
             if self.tweet[followerId]:
                 last_idx = len(self.tweet[followerId]) - 1
                 last_tweet = self.tweet[followerId][last_idx]
-                heapq.heappush(recentTweet, (-last_tweet[0], last_tweet[1], followerId, last_idx))
+                recentTweet.append((-last_tweet[0], last_tweet[1], followerId, last_idx))
+        heapq.heapify(recentTweet)
         cnt = 0
         ans = []
         while cnt < 10 and recentTweet:
