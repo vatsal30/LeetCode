@@ -975,6 +975,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/vatsal30/LeetCode/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/vatsal30/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
@@ -984,4 +985,8 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/vatsal30/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/vatsal30/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
