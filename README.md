@@ -976,6 +976,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vatsal30/LeetCode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/vatsal30/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/vatsal30/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
