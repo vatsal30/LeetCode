@@ -1,21 +1,22 @@
+from collections import deque
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        preReq = { i: [] for i in range(numCourses)}
-        inDeg = [0] * numCourses
-        for course, req in prerequisites:
-            inDeg[course] += 1
-            preReq[req].append(course)
-        
-        queue = deque([idx for idx, val in enumerate(inDeg) if val == 0])
-        
-        courseCanTake = 0
-        
-        while queue:
-            course = queue.popleft()
-            courseCanTake += 1
-            for nextCourse in preReq[course]:
-                inDeg[nextCourse] -= 1
-                if inDeg[nextCourse] == 0:
-                    queue.append(nextCourse)
-        return courseCanTake == numCourses
-        
+        indegree = [0] * numCourses
+        prereq_graph = [[] for _ in range(numCourses)]
+        for course, prereq in prerequisites:
+            prereq_graph[prereq].append(course)
+            indegree[course] += 1        
+        q = deque()
+        for course, degree in enumerate(indegree):
+            if degree == 0:
+                q.append(course)
+        while q:
+            course = q.popleft()
+            for  dependent in prereq_graph[course]:
+                indegree[dependent] -= 1
+                if indegree[dependent] == 0:
+                    q.append(dependent)
+        for degree in indegree:
+            if degree:
+                return False
+        return True
