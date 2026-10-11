@@ -447,6 +447,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0211-design-add-and-search-words-data-structure](https://github.com/vatsal30/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/vatsal30/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/vatsal30/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vatsal30/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/vatsal30/LeetCode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/vatsal30/LeetCode/tree/master/0394-decode-string) |
@@ -496,6 +497,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0217-contains-duplicate](https://github.com/vatsal30/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vatsal30/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vatsal30/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/vatsal30/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/vatsal30/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/vatsal30/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vatsal30/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
