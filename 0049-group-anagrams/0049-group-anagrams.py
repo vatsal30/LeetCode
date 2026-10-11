@@ -5,7 +5,7 @@ class Solution:
         for s in strs:
             cnt = [0] * 26
             for c in s:
-                cnt[ord(c) - ord('a')] += 1
+                cnt[ord(c) - 97] += 1
             group_dict[tuple(cnt)].append(s)
         
         return list(group_dict.values())
