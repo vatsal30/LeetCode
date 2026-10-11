@@ -7,13 +7,11 @@ class Solution:
         mapper = {}
         mapper2 = {}
         for i in range(len(pattern)):
-            if pattern[i] not in mapper:
-                mapper[pattern[i]] = s_list[i]
-            elif mapper[pattern[i]] != s_list[i]:
+            if pattern[i] in mapper and mapper[pattern[i]] != s_list[i]:
                 return False
             
-            if s_list[i] not in mapper2:
-                mapper2[s_list[i]] = pattern[i]
-            elif mapper2[s_list[i]] != pattern[i]:
+            if s_list[i] in mapper2 and mapper2[s_list[i]] != pattern[i]:
                 return False
+            mapper[pattern[i]] = s_list[i]
+            mapper2[s_list[i]] = pattern[i]
         return True
