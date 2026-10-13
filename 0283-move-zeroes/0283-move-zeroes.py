@@ -3,20 +3,19 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        nonzero_idx = 0
+        zero_idx = -1
         idx = 0
         n = len(nums)
-        while nums[nonzero_idx] == 0:
-            nonzero_idx += 1
-            if nonzero_idx > n - 1:
-                return
-        while idx < n and nonzero_idx < n: 
-            while nonzero_idx < idx or nums[nonzero_idx] == 0:
-                nonzero_idx += 1
-                if nonzero_idx > n - 1:
-                    return
+        while idx < n:
             if nums[idx] == 0:
-                nums[idx], nums[nonzero_idx] = nums[nonzero_idx], nums[idx]
-                nonzero_idx += 1
+                zero_idx = idx
+                break
             idx += 1
-            
+        idx = zero_idx + 1
+        while idx < n:
+            if nums[idx] != 0 and zero_idx >= 0:
+                nums[idx], nums[zero_idx] = nums[zero_idx], nums[idx]
+                zero_idx += 1
+            idx += 1
+        return nums
+              
