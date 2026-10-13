@@ -3,13 +3,14 @@ class Solution:
         ans = []
         nums.sort()
         i = 0
-        while i < len(nums) - 2:
+        if nums[i] > 0:
+            return []
+        for i in range(len(nums) - 2):
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
             target = -nums[i]
             j = i + 1
             k = len(nums) - 1
-            if i > 0 and nums[i] == nums[i-1]:
-                i += 1
-                continue
             while j < k:
                 if nums[j] + nums[k] > target:
                     k -= 1
@@ -23,5 +24,4 @@ class Solution:
                     while j < k and nums[k] == nums[k - 1]:
                         k -= 1
                     k -= 1
-            i += 1
         return ans
