@@ -59,6 +59,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0004-median-of-two-sorted-arrays](https://github.com/vatsal30/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vatsal30/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vatsal30/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vatsal30/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vatsal30/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/vatsal30/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vatsal30/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -222,6 +223,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vatsal30/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vatsal30/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vatsal30/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/vatsal30/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/vatsal30/LeetCode/tree/master/0049-group-anagrams) |
@@ -412,6 +414,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | ------- |
 | [0011-container-with-most-water](https://github.com/vatsal30/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vatsal30/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vatsal30/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vatsal30/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vatsal30/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/vatsal30/LeetCode/tree/master/0027-remove-element) |
