@@ -14,9 +14,9 @@ class Solution:
         if s1_c == s2_c:
             return True
 
-        left = 1
+        left = 0
         for right in range(len(s1), len(s2)):
-            s2_c[ord(s2[left - 1]) - 97] -= 1
+            s2_c[ord(s2[left]) - 97] -= 1
             s2_c[ord(s2[right]) - 97] += 1
 
             if s1_c == s2_c:
