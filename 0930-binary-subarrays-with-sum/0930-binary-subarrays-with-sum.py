@@ -6,11 +6,11 @@ class Solution:
         ans = 0
         for right in range(len(nums)):
             curr += nums[right]
-            while curr > goal:
+            while left < right and curr > goal:
                 curr -= nums[left]
                 left += 1
                 haveZeros = 0
-            if left <= right and curr == goal:
+            if curr == goal:
                 while left < right and nums[left] == 0:
                     left += 1
                     haveZeros += 1
