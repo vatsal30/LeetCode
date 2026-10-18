@@ -131,6 +131,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0973-k-closest-points-to-origin](https://github.com/vatsal30/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vatsal30/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/vatsal30/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vatsal30/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1025-minimum-cost-for-tickets](https://github.com/vatsal30/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-last-stone-weight](https://github.com/vatsal30/LeetCode/tree/master/1046-last-stone-weight) |
 | [1063-best-sightseeing-pair](https://github.com/vatsal30/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -601,6 +602,7 @@ This repo has been updated using chrome extension [LeetHub-2.0](https://chromewe
 | [0875-koko-eating-bananas](https://github.com/vatsal30/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/vatsal30/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/vatsal30/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vatsal30/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vatsal30/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vatsal30/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/vatsal30/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
